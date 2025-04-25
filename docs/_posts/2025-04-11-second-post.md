@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Post 2"
-date: 2025-04-11
+title: "Oven control project"
+date: 2025-04-25
 author: "Paul Alexander"
 ---
 

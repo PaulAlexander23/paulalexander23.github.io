@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "C++ compilation, optimisation and scientific computing"
-date: 2025-04-11
+date: 2025-04-25
 author: "Paul Alexander"
 tags: [C++, compilation, optimisation, scientific computing]
 ---
@@ -53,10 +53,10 @@ Or through the linker directly:
 ld -o foo foo.o
 ```
 or
-``` Unix
+``` 
 ld.lld -o foo foo.o 
 ```
-``` MacOS
+```
 ld64.lld -o foo foo.o 
 ```
 
@@ -73,8 +73,8 @@ $CXX -ggdb -Wall
 
 ## Release
 
+The goal during release is to have the fastest possible executable.
 
 # Scientific computing packages
-
 
 
