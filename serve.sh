@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Start the Jekyll server
-bundle exec jekyll serve --source docs
+bundle exec jekyll serve --source docs --incremental
 
 # Wait a couple seconds to give the server time to start
 sleep 2
